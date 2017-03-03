@@ -1,0 +1,16 @@
+The Road Behind
+We travelled a great distance in this chapter
+
+We added the Angular Router to navigate among different components.
+We learned how to create router links to represent navigation menu items.
+We used router link parameters to navigate to the details of user selected hero.
+We shared the HeroService among multiple components.
+We moved HTML and CSS out of the component file and into their own files.
+We added the uppercase pipe to format data.
+We refactored routes into a Routing Module that we import.
+The Road Ahead
+We have much of the foundation we need to build an application. We're still missing a key piece: remote data access.
+
+In the next chapter, we’ll replace our mock data with data retrieved from a server using http.
+
+Start at HTTP get and save data.
